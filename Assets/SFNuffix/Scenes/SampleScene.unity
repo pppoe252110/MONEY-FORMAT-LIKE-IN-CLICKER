@@ -194,7 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 2,2352K
+  m_Text: 120M
 --- !u!222 &181383636
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -408,8 +408,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   text: {fileID: 181383635}
-  value: 2235.2
-  n: 4
+  value: 120000000
+  n: 0
 --- !u!1 &1504472255
 GameObject:
   m_ObjectHideFlags: 0
